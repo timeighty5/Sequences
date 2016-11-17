@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1">
+  <head>
+    <version>2016.50</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/Users/z28kid/Documents/Blinky Blinky lights/xlights/songs/Carol of the Bells - Aftershock.mp3</mediaFile>
+    <sequenceDuration>154.635</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="-1073739784" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="3" channel_offset="0" num_channels="8668" num_frames="6188" data="/Users/z28kid/Documents/Blinky Blinky lights/xlights/Sequences/Carol_Of_Bells_Dubstep.iseq" source="/Volumes/C/Users/z28kid/Documents/LightORama/Sequences/Carol_Of_Bells_Dubstep.lms" name="Carol_Of_Bells_Dubstep"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Trees,House,Eaves,Windows" active="1"/>
+    <Element collapsed="0" type="model" name="Tree_03" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_02" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_01" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_06" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_05" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_04" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_07" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_08" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_09" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_10" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_11" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree_12" visible="1"/>
+    <Element collapsed="0" type="model" name="Pixel Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Mini_Trees" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage" visible="1"/>
+    <Element collapsed="0" type="model" name="Office_Window" visible="1"/>
+    <Element collapsed="0" type="model" name="Bay_Window_Left" visible="1"/>
+    <Element collapsed="0" type="model" name="Bay_Window_Center" visible="1"/>
+    <Element collapsed="0" type="model" name="Bay_Window_Right" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_03">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_02">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_01">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_06">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_05">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_04">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_07">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_08">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_09">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_10">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_11">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Tree_12">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pixel Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Mini_Trees">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Office_Window">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bay_Window_Left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bay_Window_Center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Bay_Window_Right">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+</xsequence>
